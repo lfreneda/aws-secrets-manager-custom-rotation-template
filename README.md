@@ -1,2 +1,2 @@
-# aws-secrets-manager-custom-rotation-javascript
-A custom lambda function example for AWS Secrets Manager
+# aws-secrets-manager-custom-rotation-template
+A custom rotation lambda function template for AWS Secrets Manager

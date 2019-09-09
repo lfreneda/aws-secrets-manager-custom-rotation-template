@@ -1,0 +1,35 @@
+{
+  "name": "aws-secrets-manager-custom-rotation-template",
+  "version": "0.0.1",
+  "description": "A custom lambda function template for AWS Secrets Manager",
+  "main": "handler.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^6.3.0",
+    "eslint-config-standard": "^14.1.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-node": "^10.0.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lfreneda/aws-secrets-manager-custom-rotation-template.git"
+  },
+  "keywords": [
+    "aws",
+    "secrets",
+    "manager",
+    "rotate",
+    "custom"
+  ],
+  "author": "lfreneda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lfreneda/aws-secrets-manager-custom-rotation-template/issues"
+  },
+  "homepage": "https://github.com/lfreneda/aws-secrets-manager-custom-rotation-template#readme"
+}
